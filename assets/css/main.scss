@@ -41,3 +41,40 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+body {
+  font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.25;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.archive__item-title,
+.author__name,
+.masthead__menu-item {
+  font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.15;
+}
+
+.page__content p,
+.archive__item p {
+  margin-bottom: 8px;
+}
+
+.page__content .archive__item-title {
+  margin-top: 0.65em;
+  margin-bottom: 0.2em;
+}
+
+.archive__item {
+  margin-bottom: 1.15em;
+}
+
+.archive__item-note {
+  margin-top: -0.2em;
+}
