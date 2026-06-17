@@ -83,3 +83,31 @@ h6,
   margin-top: 8px;
   margin-bottom: 8px;
 }
+
+.awards-list {
+  width: 100%;
+  margin-top: 0.25em;
+  border-collapse: collapse;
+}
+
+.awards-list td {
+  border: 0;
+  padding: 0 0 8px;
+  vertical-align: top;
+}
+
+.awards-list .award-year {
+  width: 7.25em;
+  padding-right: 2em;
+  white-space: nowrap;
+}
+
+.awards-list .award-name {
+  text-align: left;
+}
+
+@media (min-width: 48em) {
+  .awards-list .award-name {
+    white-space: nowrap;
+  }
+}
