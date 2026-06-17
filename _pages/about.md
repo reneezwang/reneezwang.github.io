@@ -14,6 +14,10 @@ I received a Ph.D. in Geochemistry from Caltech in 2023, where I was co-advised 
 
 ## Scientific Interests
 
+<figure class="scientific-interests-figure">
+  <img src="/images/gases.svg" alt="Illustration of atmospheric gases">
+</figure>
+
 I'm interested in how biology carries out the difficult, biochemical reactions that make life possible on Earth. I focus on a specific subset of enzymes - those that use small molecule gases like the ones found in our atmosphere (e.g., carbon dioxide (CO<sub>2</sub>) and nitrous oxide (N<sub>2</sub>O)). Small molecule gases are biochemically challenging to activate, so these "gas-dependent" enzymes are often the metabolic "bottlenecks" of individual organisms and whole ecosystems. Therefore, understanding the evolution, function, and diversity of gas-dependent enzymes tells us something foundational about the co-evolution of life and Earth (and, possibly, on other planets). In addition, these enzymes have been the focus of intense bioengineering efforts across numerous industries like agriculture, chemical synthesis, and climate tech because their reaction mechanisms may inspire new tools to address societal issues in food production, manufacturing, and greenhouse gas mitigation.
 
 ## Technical Approach
