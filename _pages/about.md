@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc at the **University of California, Berkeley** with joint appointments in the Departments of Earth and Planetary Sciences (EPS), and Plant and Microbial Biology (PMB). I am co-advised by Professor [Daniel Stolper](https://sites.google.com/berkeley.edu/daniel-stolper/) in EPS and Professor [Patrick Shih](https://plantandmicrobiology.berkeley.edu/people/patrick-shih) in PMB. I am also currently an Agouron-Resnick Postdoctoral Fellow of the [Life Sciences Research Foundation](https://lsrf.org/) (**LSRF**).
+I'm a postdoc at the **University of California, Berkeley** with joint appointments in the Departments of Earth and Planetary Sciences (EPS) and Plant and Microbial Biology (PMB). I am co-advised by Professor [Daniel Stolper](https://sites.google.com/berkeley.edu/daniel-stolper/) in EPS and Professor [Patrick Shih](https://plantandmicrobiology.berkeley.edu/people/patrick-shih) in PMB. I am also currently an Agouron-Resnick Postdoctoral Fellow of the [Life Sciences Research Foundation](https://lsrf.org/) (**LSRF**).
 
 I received a Ph.D. in Geochemistry from **Caltech** in 2023, where I was co-advised by Professor [John Eiler](https://www.gps.caltech.edu/people/john-m-eiler) in the Division of Geological and Planetary Science (GPS), and Professor [Dianne Newman](https://dknweb.sites.caltech.edu/) who holds appointments in both GPS and Biology and Biological Engineering (BBE). I also worked extensively with Professor [Woody Fischer](https://web.gps.caltech.edu/~wfischer/) in GPS.
+
+During my Ph.D., I also completed a Graduate Research Assistant internship at **Los Alamos National Laboratory** through the Department of Energy (DOE) [Biological and Environmental Research](https://www.lanl.gov/science-engineering/science-programs/office-of-science-programs/biological-and-environmental-research) (BER) program.
 
 ## Scientific Interests
 
